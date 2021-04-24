@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**L1mPeX/L1mPeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**L1mPeX/L1mPeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Aurum.dc
 - 🌱 I’m currently learning jQuery and other web languages and libruaries
 - 👯 I’m looking to collaborate on ...
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: andreikazarin@yandex.ru
+- 📫 How to reach me: Mail - andreikazarin@yandex.ru
+                      Telegram - t.me/l1mpex
 <!-- - 😄 Pronouns: ...  -->
 - ⚡ Fun fact: I'm in high school. I'm 15 years old
 
