@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Aurum.dc
 - 🌱 I’m currently learning jQuery and other web languages and libruaries
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Mail - andreikazarin@yandex.ru
