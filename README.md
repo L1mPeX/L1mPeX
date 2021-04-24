@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: andreikazarin@yandex.ru
-<!-- - 😄 Pronouns: ...  ->
+<!-- - 😄 Pronouns: ...  -->
 - ⚡ Fun fact: I'm in high school. I'm 15 years old
 
 ### Awesome Stats
