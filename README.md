@@ -8,8 +8,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Mail - andreikazarin@yandex.ru
-                      Telegram - t.me/l1mpex
+- 📫 How to reach me by mail: andreikazarin@yandex.ru
+- 📫 How to reach me by Telegram - https://t.me/l1mpex
 <!-- - 😄 Pronouns: ...  -->
 - ⚡ Fun fact: I'm in high school. I'm 15 years old
 
