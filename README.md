@@ -11,7 +11,7 @@
 - 📫 How to reach me by mail: andreikazarin@yandex.ru
 - 📫 How to reach me by Telegram - https://t.me/l1mpex
 <!-- - 😄 Pronouns: ...  -->
-- ⚡ Fun fact: I'm in high school. I'm 15 years old
+- ⚡ Fun fact: I'm in high school. I'm 16 years old
 
 ### Awesome Stats
 
