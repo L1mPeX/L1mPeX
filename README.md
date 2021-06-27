@@ -5,12 +5,8 @@
 
 - 🔭 I’m currently working on Aurum.dc
 - 🌱 I’m currently learning jQuery and other web languages and libruaries
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me by mail: andreikazarin@yandex.ru
 - 📫 How to reach me by Telegram - https://t.me/rui_tachiobana
-<!-- - 😄 Pronouns: ...  -->
 - ⚡ Fun fact: I'm in high school. I'm 16 years old
 
 ### Awesome Stats
