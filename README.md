@@ -19,4 +19,3 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=L1mPeX&theme=radical&repo=Referal-Bot)](https://github.com/L1mPeX/Referal-Bot)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=L1mPeX&theme=radical&repo=Casino-Bot)](https://github.com/L1mPeX/Casino-Bot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=L1mPeX&theme=radical&repo=AutoSale-bot)](https://github.com/L1mPeX/AutoSale-bot)
