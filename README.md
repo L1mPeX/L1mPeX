@@ -4,9 +4,9 @@
 **L1mPeX/L1mPeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Aurum.dc
-- 🌱 I’m currently learning jQuery and other web languages and libruaries
+- 🌱 I’m currently learning PHP, SQL and JavaScript for pentesting
 - 📫 How to reach me by mail: andreikazarin@yandex.ru
-- 📫 How to reach me by Telegram - https://t.me/rui_tachiobana
+- 📫 How to reach me by Telegram - https://t.me/l1mpex
 - ⚡ Fun fact: I'm in high school. I'm 16 years old
 
 ### Awesome Stats
