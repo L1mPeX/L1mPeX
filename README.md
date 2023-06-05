@@ -11,8 +11,8 @@
 
 ### Awesome Stats
 
-![Github Stats](https://camo.githubusercontent.com/d0b9404e674d1c3fe6509858aac633512fe4c2e68d9cec393c87b909da8030bd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c316d50655826636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c)
-![Top Langs](https://camo.githubusercontent.com/6372ebf4c2f11b1fedbb937485feabb404927d69397e70802bcc4d025c9d9ab7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4c316d50655826636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7261646963616c)
+![Metrics](https://metrics.lecoq.io/L1mPeX?template=classic&languages=1&lines=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
+
 ## 😎 My repos:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=L1mPeX&theme=radical&repo=Horoscope-website)](https://github.com/L1mPeX/Horoscope-website)
