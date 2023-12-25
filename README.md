@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java and ASM
 - 📫 How to reach me by mail: andreikazarin@yandex.ru
 - 📫 How to reach me by Telegram - https://t.me/l1mpex
-- 🎓 ITMO Universitu student. Currently I'm studying on Comuper Science Engeneering faculty
+- 🎓 ITMO University student. Currently I'm studying on Comuper Science Engeneering faculty
 - 🏳 CTFTime team (main): Madoka
 - 🏳 CTFTime team (sub): ITMO Team
 - ⚡ Fun fact: I'm 18 years old
