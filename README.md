@@ -14,7 +14,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/L1mPeX?ext=contest)
 
 
-And... Cote terminal <3
+And... Cute terminal <3
 
 ![](https://github.com/L1mPeX/L1mPeX/blob/main/output.gif)
 
