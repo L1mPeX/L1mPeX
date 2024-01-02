@@ -10,10 +10,7 @@
 - 🏳 CTFTime team (main): Madoka
 - 🏳 CTFTime team (sub): ITMO Team
 - ⚡ Fun fact: I'm 18 years old
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/L1mPeX?ext=contest)
-
-
+  
 And... Cute terminal <3
 
 ![](https://github.com/L1mPeX/L1mPeX/blob/main/output.gif)
