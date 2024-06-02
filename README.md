@@ -52,7 +52,7 @@ Some facts about me:
 - 🏳 CTFTime team: ITMO Team
 - ⚡ Fun fact: I'm 18 years old
   
-And... Cute terminal <3
+<!-- And... Cute terminal <3 -->
 
-![](https://github.com/L1mPeX/L1mPeX/blob/main/output.gif)
+<!-- ![](https://github.com/L1mPeX/L1mPeX/blob/main/output.gif) -->
 
