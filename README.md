@@ -48,7 +48,7 @@
 Some facts about me:
 - 🌱 I’m currently learning Java and C (with MASM)
 - 📫 How to reach me via Telegram - https://t.me/l1mpex
-- 🎓 ITMO University student. Currently I'm studying on Comuper Science Engeneering faculty
+- 🎓 ITMO University student. I am currently studying at the faculty... Which faculty do I study at?
 - 🏳 CTFTime team: ITMO Team
 - ⚡ Fun fact: I'm 18 years old
   
