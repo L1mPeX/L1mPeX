@@ -46,11 +46,11 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 Some facts about me:
-- 🌱 I’m currently learning Java and C (with MASM)
-- 📫 How to reach me via Telegram - https://t.me/l1mpex
-- 🎓 ITMO University student. I am currently studying at the faculty... Which faculty do I study at?
-- 🏳 CTFTime team: ITMO Team
-- ⚡ Fun fact: I'm 18 years old
+- 🌱 I’m currently learning UNIX/Windows administrating
+- 📫 How to reach me via Telegram - t.me/l1mpex
+- 🎓 Self-educated cyber security specialist
+- 🏳 CTFTime team: *none at this time*
+- ⚡ Fun fact: I'm 19 years old
   
 <!-- And... Cute terminal <3 -->
 
