@@ -49,8 +49,7 @@ Some facts about me:
 - 🌱 I’m currently learning UNIX/Windows administrating
 - 📫 How to reach me via Telegram - t.me/l1mpex
 - 🎓 Self-educated cyber security specialist
-- 🏳 CTFTime team: *none at this time*
-- ⚡ Fun fact: I'm 19 years old
+- 🏳 CTFTime team: MATPEIIIKA
   
 <!-- And... Cute terminal <3 -->
 
