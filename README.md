@@ -41,7 +41,7 @@
   <a href="https://www.instagram.com/l1mpex/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="t.me/l1mpex" target="_blank">
+  <a href="https://t.me/l1mpex" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://tryhackme.com/p/L1mPeX" target="_blank">
