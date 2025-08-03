@@ -50,9 +50,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/L1mPeX/L1mPeX/output/snake.svg" alt="Snake animation" />
-
-###
